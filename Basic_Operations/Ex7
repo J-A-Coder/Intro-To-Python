@@ -1,0 +1,12 @@
+Exercise 7
+
+Question:
+
+What will the following code do? Why?
+
+int('3.1415')
+
+
+Answer:
+
+It raises a ValueError because the string does not represent a valid integer.

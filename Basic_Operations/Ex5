@@ -1,0 +1,13 @@
+Exercise 5
+
+Question:
+
+Will an error occur.
+
+foo = ['a', 'b', 'c']
+print(foo[3])
+
+
+Answer:
+
+Yes. An error will occur if you try to access a list element with an index greater than or equal to the list's length.

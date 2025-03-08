@@ -1,0 +1,14 @@
+Exercise #8
+
+Question:
+
+To what does the following expression evluate?
+
+'12' < '9'
+
+
+Answer:
+
+The expression is evaluated as True. The expression is comparing two strings. When python compares the values of strings it does so one character
+at a time. In the above example python would compare 1 and 9 and then conclude that based on the higher value of 9 as compared to 1 that the 
+expression is true.

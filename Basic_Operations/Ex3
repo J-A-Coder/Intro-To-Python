@@ -1,0 +1,7 @@
+Exercise 3
+
+Problem: What happens. print('5' + '10')
+
+Solution:
+
+When this code is ran we get the output '510.' For, when two strings are combined using the + operand, string concatenation is inacted.

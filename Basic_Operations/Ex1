@@ -1,0 +1,10 @@
+Exercise: Concatenate.
+
+Solution 1:
+
+print('John' + ' Doe')
+
+
+Solution 2:
+
+print('John' + ' ' + 'Doe')

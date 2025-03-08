@@ -1,0 +1,9 @@
+Exercise #6
+
+Question: To what value does the following expression evaluate?
+
+'foo' == 'Foo'
+
+Answer:
+
+The above expression is evaluated as False since case matters in comparing strings.

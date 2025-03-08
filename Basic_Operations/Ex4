@@ -1,0 +1,5 @@
+Exercise 4. Coercion.
+
+Solution:
+
+print(int('5') + int('10'))
